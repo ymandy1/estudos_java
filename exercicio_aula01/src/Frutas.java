@@ -1,5 +1,3 @@
-import javax.swing.text.StyledEditorKit;
-
 public class Frutas {
     String cor;
     String nome;
